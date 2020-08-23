@@ -1,0 +1,16 @@
+{
+  "name": "rxjs-crash-course",
+  "version": "1.0.0",
+  "description": "Learn Rxjs and Reactive Programming from scratch ",
+  "main": "index.js",
+  "author": "Islem Maboud",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "sass": "^1.26.10"
+  },
+  "dependencies": {
+    "rxjs": "^6.6.2"
+  }
+}
